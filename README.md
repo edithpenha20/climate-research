@@ -1,3 +1,3 @@
-# JApp for weather forecast query
+# App for weather forecast query
 
 
